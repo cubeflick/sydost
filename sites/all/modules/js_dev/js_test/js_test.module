@@ -1,0 +1,29 @@
+<?php
+
+/**
+ * Implements hook_form_alter().
+ */
+function js_test_form_alter(&$form, &$form_state, $form_id) {
+//   print $form_id;
+  //if($form_id == 'webform_client_form_2') {
+/*    print '<xmp>';
+    print_r($form);
+    print '</xmp>';
+    exit;*/
+  //}
+}
+
+/**
+ * Implements hook_submit().
+ */
+function js_test_webform_submission_presave($node, &$submission) {
+//   print $form_id;
+//  if($form_id == 'webform_client_form_51') {
+/*    print '<xmp>';
+    print_r($submission);
+    print '</xmp>';
+    exit;*/
+//  }
+}
+
+?>

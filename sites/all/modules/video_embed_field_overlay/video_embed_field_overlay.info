@@ -1,0 +1,17 @@
+name = Video Embed Field Overlay
+description = Allows videos embedded using the video_embed_field module to be displayed in a DOM Window overlay.
+core = 7.x
+package = Media
+
+dependencies[] = video_embed_field
+dependencies[] = domwindow
+recommends[] = image
+recommends[] = imagecache_actions
+suggests[] = imagecache_canvasactions
+
+; Information added by drupal.org packaging script on 2012-02-05
+version = "7.x-1.3"
+core = "7.x"
+project = "video_embed_field_overlay"
+datestamp = "1328414767"
+

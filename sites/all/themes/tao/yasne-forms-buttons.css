@@ -1,0 +1,312 @@
+.page-newsletter-confirm a#edit-cancel, 
+#page .print_html a, 
+#page .field-name-field-annexe .file a, 
+#page .button, 
+#page .divbutton a, 
+#page .field-name-field-annexe .file a, 
+#page input.form-submit {
+	display: inline-block;
+	zoom: 1; 
+	*display: inline;
+	vertical-align: middle;
+	outline: none;
+	cursor: pointer;
+	padding: 0 25px;
+	text-align: center;
+	text-decoration: none;
+	background: #f2f2e8 url('i/button10.png') repeat-x left bottom;
+	height: 37px;
+	line-height: 37px;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-box-shadow: 1px 1px 1px #b6b6b6;
+	-webkit-box-shadow: 1px 1px 1px #b6b6b6;
+	box-shadow: 1px 1px 1px #b6b6b6;
+	behavior: url(/sites/all/themes/tao/js/PIE.htc);
+	position: relative;
+	color: #5a5248;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-shadow: 0 1px 1px #fff;
+}
+#block-block-6 .block-content .button,
+#block-block-6 .block-content .tel.button,
+#page #mc-embedded-subscribe-form input.button,
+#page #user-login input.form-submit,
+#page .webform-client-form input.form-submit {
+	-moz-box-shadow: 1px 1px 1px #BC0A03;
+	-webkit-box-shadow: 1px 1px 1px #BC0A03;
+	box-shadow: 1px 1px 1px #BC0A03;
+}
+.page-newsletter-confirm a#edit-cancel:hover, 
+#page .print_html a:hover, 
+#page .field-name-field-annexe .file a:hover, 
+#page .button:hover, 
+#page .field-name-field-annexe .file a:hover, 
+#page .divbutton a:hover, 
+#page input.form-submit:hover { 
+	background: #f4f0e4;
+}
+#yALL #page .yPR a {
+	background: #f4f2e3 url('i/button10pr.png') repeat-x left center;
+	margin-top: 10px;
+}
+#block-block-6 .block-content .tel.button {
+	font-size: 16px;
+	letter-spacing: 1px;
+	background: #f4f2e3 url('i/button10tel.png') repeat-x left center;
+}
+#block-block-6 .block-content .button {
+	width: 200px;
+	margin: 0 0 15px 0;
+	padding: 0px 25px;
+	height: 37px;
+}
+#yALL #page .yK a {
+	background: #840800;
+	color: #fff;
+	margin-top: 10px;
+	-moz-box-shadow: 0;
+	-webkit-box-shadow: 0;
+	box-shadow: 0;
+	text-shadow: none;
+}
+#yALL #page .yK a:hover {
+	-moz-box-shadow:inset 1px 1px 7px #000000;
+	-webkit-box-shadow:inset 1px 1px 7px #000000;
+	box-shadow:inset 1px 1px 7px #000000;
+}
+.page-newsletter-confirm #page input.form-submit {
+	background: #004668 url('i/button10b.png') repeat-x left top;
+	color: #fff; margin-top: 10px;
+	-moz-box-shadow: 0px 0px 0px #00374b;
+	-webkit-box-shadow: 0px 0px 0px #00374b;
+	box-shadow: 0px 0px 0px #00374b;
+	text-shadow: 0 0px 0px #000;
+}
+.page-newsletter-confirm #page input.form-submit:hover {
+	background: #004668 url('i/button10h.png') repeat-x left top;
+}
+.page-newsletter-confirm a#edit-cancel {
+	margin-top: 10px;
+}
+#page .divbutton a {
+	width: 172px;
+}
+#yALL #page .view-magazine-boat a.button {
+	background: #004668 url('i/button10b.png') repeat-x left top;
+	color: #fff;
+	margin-top: 10px;
+	-moz-box-shadow: 0px 0px 0px #00374b;
+	-webkit-box-shadow: 0px 0px 0px #00374b;
+	box-shadow: 0px 0px 0px #00374b;
+	text-shadow: 0 0px 0px #000;
+}
+#yALL #page .view-magazine-boat a.button:hover {
+	background: #004668 url('i/button10h.png') repeat-x left top;
+}
+input.form-text, select, textarea {
+	border: 1px solid #CCC;
+	background: #fff;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+#page .yB a {
+	width: 280px;
+	display: inline-block;
+}
+#page .print_html {
+	margin: 0;
+}
+.field-name-field-annexe .file-icon {
+	display: none;
+}
+#page .field-name-field-annexe .file a {
+	width: 310px;
+	padding: 0 20px;
+	margin: 10px 0 0 0;
+	overflow: hidden;
+}
+.webform-client-form {
+	background: #B30C03;
+	padding: 20px;
+	color:#fff;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	border-radius: 8px;
+	behavior: url(/sites/all/themes/tao/js/PIE.htc);
+	position: relative;
+}
+#user-login input.form-text,
+.webform-client-form input.form-text,
+.webform-client-form select,
+.webform-client-form textarea {
+	border: 2px solid #840800;
+	background: #fff;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	border-radius: 4px;
+	behavior: url(/sites/all/themes/tao/js/PIE.htc);
+	position: relative;
+}
+#user-login .form-item,
+.webform-client-form .form-item {
+	margin-bottom: 20px;
+}
+#user-login input.form-text,
+.webform-client-form input.form-text {
+	width: 276px;
+	padding: 0 5px;
+	height: 36px;
+	line-height: 36px;
+}
+.yLabel,
+#user-login label,
+.webform-client-form label {
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 700;
+}
+#user-login .form-item .description,
+#user-login input.form-submit,
+#user-login label {
+	margin-left: 2px;
+}
+.yLabel {
+	float: left;
+}
+.yR {
+	color: #bee4ef;
+	font-size: 11px;
+	float: right;
+	margin-right: 3px;
+}
+.webform-client-form .form-item.webform-component-markup {
+	margin-bottom: 3px;
+}
+.webform-client-form input.form-submit {
+	width: 286px;
+	height: 36px;
+	cursor: pointer;
+	padding: 0;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+.yRightSidebar .webform-client-form input.form-text {	width: 248px; padding: 0 5px;	}
+.yRightSidebar .webform-client-form input.form-submit {	width: 260px;	}
+.webform-client-form h2 {
+	text-transform: uppercase;
+	font-size: 28px;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+#footer .limiter,
+#user-login,
+.yBlueBackgroundBlock {
+	display: block;
+	background: #BB0D03 url('i/BlueBg01.png') repeat-x top left;
+	color: #fff;
+	padding: 20px;
+}
+#user-login .form-item .description {
+	color: #fff;
+}
+#block-webform-client-block-51 .node-title { display: none; }
+#block-webform-client-block-51 .webform-client-form {
+	background: transparent;
+	background-image: none;
+	padding: 0px;
+	width: 430px;
+	float: left;
+}
+#block-block-12 .yL, 
+#block-webform-client-block-51 .field-name-body {
+	width: 438px;
+	float: left;
+	padding-right: 22px;
+}
+#block-block-12 .mc-field-group label  {
+	display: block;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 700;
+	color: #fff;
+}
+#block-webform-client-block-51::after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+#block-block-12 .mc-field-group input {
+	width: 190px;
+	padding: 0 5px;
+	height: 36px;
+	line-height: 36px;
+	border: 2px solid #840800;
+	background: white;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	border-radius: 4px;
+	behavior: url(/sites/all/themes/tao/js/PIE.htc);
+	position: relative;
+	behavior: url(/sites/all/themes/tao/js/PIE.htc);
+	
+	
+}
+#block-block-12 .mc-field-group, 
+#block-webform-client-block-51 .webform-client-form .form-item {
+	width: 215px;
+	float: left;
+	margin-bottom: 10px;
+}
+#block-webform-client-block-51 .webform-client-form .webform-component-newsletter_email {
+	display: none;
+}
+#block-webform-client-block-51 .webform-client-form input.form-text {
+	width: 190px;
+	padding: 0 5px;
+}
+#page #mc-embedded-subscribe-form input.button,
+#block-webform-client-block-51 .webform-client-form input.form-submit {
+	width: 160px;
+	margin-left: 2px;
+}
+#block-simplenews-1 .content input.form-submit {
+	margin: 23px 0 0 10px;
+}
+#block-simplenews-1 .content input.form-text {
+	border: 2px solid #840800;
+	background: #fff;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	width: 286px;
+	height: 34px;
+	line-height: 34px;
+	behavior: url(/sites/all/themes/tao/js/PIE.htc);
+	position: relative;
+	margin: 3px 0 0 0;
+}
+#block-simplenews-1 .content .form-item-mail {
+	float: left;
+}
+.front .form-required,
+.page-node-38 .yR {
+	display: none;
+}
+.yRightSidebar.page-node-38 .webform-client-form input.form-text {
+	width: 150px;
+}
+.yRightSidebar.page-node-38 #page .webform-client-form input.form-submit {
+	width: 164px; 
+	padding: 0;
+	font-size: 13px;
+}
+.page-newsletter #page input.form-submit {
+	margin-right: 15px;
+}

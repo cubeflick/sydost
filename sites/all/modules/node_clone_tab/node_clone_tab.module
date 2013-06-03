@@ -1,0 +1,11 @@
+<?php 
+
+/**
+ * implementation hook_menu_alter();
+ * @param unknown_type $items
+ */
+function node_clone_tab_menu_alter(&$items) {
+  // Change node clone menu item to a tab instead of an action
+  $items['node/%node/clone']['type'] = MENU_LOCAL_TASK;
+  
+}

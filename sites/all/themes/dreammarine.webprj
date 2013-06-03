@@ -1,0 +1,51 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project type="Local" name="DreamMarine" encoding="utf8" >
+    <upload/>
+    <author/>
+    <email/>
+    <defaultDTD>-//W3C//DTD HTML 4.01 Transitional//EN</defaultDTD>
+    <item url="" uploadstatus="1" />
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+    <item url="tao/" uploadstatus="1" />
+    <item url="tao/drupal/" uploadstatus="1" />
+    <item url="tao/drupal/draggable.png" uploadstatus="1" />
+    <item url="tao/drupal/progress.gif" uploadstatus="1" />
+    <item url="tao/drupal/throbber.gif" uploadstatus="1" />
+    <item url="tao/drupal/tree-bottom.png" uploadstatus="1" />
+    <item url="tao/drupal/tree.png" uploadstatus="1" />
+    <item url="tao/templates/" uploadstatus="1" />
+    <item url="tao/templates/fieldset.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/node.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/object.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/page.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/views-view-grid.tpl.php" uploadstatus="1" />
+    <item url="tao/base.css" uploadstatus="1" />
+    <item url="tao/base-rtl.css" uploadstatus="1" />
+    <item url="tao/drupal.css" uploadstatus="1" />
+    <item url="tao/drupal-rtl.css" uploadstatus="1" />
+    <item url="tao/LICENSE.txt" uploadstatus="1" />
+    <item url="tao/README.md" uploadstatus="1" />
+    <item url="tao/reset.css" uploadstatus="1" />
+    <item url="tao/reset-rtl.css" uploadstatus="1" />
+    <item url="tao/screenshot.png" uploadstatus="1" />
+    <item url="tao/tao.info" uploadstatus="1" />
+    <item url="tao/template.php" uploadstatus="1" />
+    <item url="templates/" uploadstatus="1" />
+    <item url="toolbars/" uploadstatus="1" />
+    <item url="dreammarine.session" uploadstatus="1" />
+    <item url="dreammarine.webprj" uploadstatus="1" />
+    <item url="README.txt" uploadstatus="1" />
+    <annotations/>
+    <item url="tao/yasne.css" uploadstatus="1" />
+    <item url="tao/templates/html.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/page--node--boat.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/ds-2col-stacked--node-boat-full.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/ds-2col-stacked-fluid--node.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/ds-2col-stacked--node.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/block.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/block--blocktheme--simplenews.tpl.php" uploadstatus="1" />
+    <item url="tao/templates/ds-2col-stacked--node-news.tpl.php" />
+  </project>
+</webproject>

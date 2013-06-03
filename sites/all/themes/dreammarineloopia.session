@@ -1,0 +1,15 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item column="3" line="174" url="tao/template.php" />
+      <item column="22" line="19" url="tao/tao.info" />
+      <item column="0" line="19" url="tao/templates/ds-1col--node-news.tpl.php" />
+      <item line="1158" column="0" url="tao/yasne.css" />
+    </itemcursorpositions>
+    <treestatus>
+      <openfolder url="tao" />
+      <openfolder url="tao/templates" />
+    </treestatus>
+  </session>
+</webprojectsession>

@@ -1,0 +1,13 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item line="1123" column="4" url="tao/yasne.css" />
+      <item line="28" column="18" url="tao/templates/ds-2col-stacked--node-news.tpl.php" />
+    </itemcursorpositions>
+    <treestatus>
+      <openfolder url="tao" />
+      <openfolder url="tao/templates" />
+    </treestatus>
+  </session>
+</webprojectsession>

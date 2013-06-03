@@ -1,0 +1,5 @@
+name = Test Module
+description = Form testing module
+package = J.S. Dev
+core = 7.x
+;files[] =

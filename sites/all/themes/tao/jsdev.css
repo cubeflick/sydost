@@ -1,0 +1,138 @@
+a#films-boat-link,
+a#flash-boat-link {
+    border-radius: 6px 6px 6px 6px;
+    color: #5A5249;
+    display: inline-block;
+    font: 19px/21px arial,sans-serif;
+    letter-spacing: 2px;
+    margin: 0 6px 0 3px;
+    padding: 2px 5px;
+    position: relative;
+    text-transform: uppercase;
+    background: url("i/js-arrow.png") no-repeat right 4px transparent;
+    padding-right: 20px;
+}
+
+span.js-delimiter-1,
+span.js-delimiter-2 {
+    background: url("i/line.gif") repeat-y scroll left top transparent;
+    display: inline-block;
+    height: 26px;
+    position: relative;
+    top: 7px;
+    width: 10px;
+}
+
+span.js-delimiter-2 {
+  margin-left: 8px;
+}
+.page-node-61 #main-content .yKreska #content .group-left {
+  width: 570px;
+}
+.page-node-61 #main-content .yKreska #content .group-right {
+  background: transparent url('i/kreska.gif') repeat-y 20px 0;
+  width: 300px;
+}
+.page-node-61 #main-content .yKreska #content .group-right .webform-client-form input.form-text {
+    padding: 0 5px;
+    width: 248px;
+}
+.page-node-61 #main-content .yKreska #content .group-right .webform-client-form input.form-submit {
+    width: 260px;
+}
+
+#block-views-beneteau-batmodeller-2-block {
+	max-height: 185px;
+	overflow: hidden;
+}
+
+.jcarousel-view--beneteau-batmodeller-2--block li {
+	margin-bottom: 20px;
+}
+
+.node-type-basic-page #main-content #content #block-system-main {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.yBoat .group-header .field-name-field-token-price p:last-child {
+	margin-top: 20px;
+}
+
+.yBoat .group-header .field-name-field-headline {
+	margin-top: 5px;
+}
+
+.view-id-withdrawn_boat .ds-2col-fluid > .group-left {
+	float: left;
+	width: 222px;
+}
+
+.view-id-withdrawn_boat .ds-2col-fluid > .group-right {
+	float: left;
+	width: 340px; 
+	padding-left: 18px;
+}	
+
+.view-id-withdrawn_boat h2 {
+	margin: 0 0 10px 0;
+	line-height: 24px;
+	font-size: 22px;
+	min-height: 48px;
+}
+
+.view-id-withdrawn_boat h2 a {
+	color: #000;
+}
+
+.view-id-withdrawn_boat h2 a:hover {
+	color: #00628F;
+}
+
+.view-id-withdrawn_boat .yRow {
+	padding: 6px 0px 6px 10px;
+	line-height: 20px;
+	margin: 0 0 5px 0;
+	position: relative;
+	background: #cfccc2;
+	font-weight: 700;
+	overflow: hidden;
+	min-height: 20px;
+}
+
+.view-id-withdrawn_boat .yRow .BRIST { display: none; }
+.view-id-withdrawn_boat .yRow .PRISSANKT, 
+.view-id-withdrawn_boat .yRow .SALD { 
+	position: absolute;
+	right: 7px;
+	top: 7px;
+	width: 97px;
+	height: 20px;
+}
+
+.view-id-withdrawn_boat .yRow .PRISSANKT {
+	background: transparent url('i/prissankt.png') no-repeat right top;
+}
+
+.view-id-withdrawn_boat .yRow .SALD { 
+	background: transparent url('i/sald.png') no-repeat right top;	
+}
+
+.view-id-withdrawn_boat .views-row {
+	padding: 7px 0 5px;
+	border-bottom: 2px solid #cfccc2;
+}	
+
+.view-id-withdrawn_boat {
+	border-top: 2px solid #cfccc2;
+}	
+
+.view-id-withdrawn_boat .field-name-field-token-used .field-items .field-item .yRow:first-child {
+	display: none;
+}
+
+.yBoat .group-header {
+    border-bottom: 15px solid #fff;
+    border-top: 15px solid #fff;
+}

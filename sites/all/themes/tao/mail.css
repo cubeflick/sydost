@@ -1,0 +1,16 @@
+body {
+	background: #2C2C2C; 
+	color: #f8f8f8; 
+	margin: 0;
+	padding: 0px 0px;
+	min-height: 100%;
+	}
+body.submission {
+	background: #ffffff; 
+	color: #000000; 	
+}
+#center {
+	background: #2C2C2C; 
+	margin: 0;
+	padding: 0;	
+}

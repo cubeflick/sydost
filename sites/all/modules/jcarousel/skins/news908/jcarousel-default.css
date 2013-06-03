@@ -1,0 +1,100 @@
+.jcarousel-skin-default {  text-align: left;}
+.jcarousel-skin-default .jcarousel-container-horizontal { width: 440px; height: 102px; padding: 20px 40px; margin: auto; }
+
+.jcarousel-skin-default .jcarousel-container-horizontal {
+  width: 900px;
+  height: 265px;
+  padding: 0px 0px;
+  margin: auto;
+}
+
+.jcarousel-skin-default .jcarousel-clip-horizontal { width: 440px; overflow: hidden;}
+
+.jcarousel-skin-default .jcarousel-clip-horizontal {
+  width: 900px;
+  overflow: hidden;
+  height: 250px;
+}
+
+
+.jcarousel-skin-default .jcarousel-item {  padding: 0;  width: 100px;  height: 100px;  overflow: hidden;  border: 1px solid #CCC;  list-style: none;  background: #fff none;}
+
+.jcarousel-skin-default .jcarousel-item {
+  padding: 0;
+  width: 100px;
+  height: 250px;
+  overflow: hidden;
+  border: none;
+  list-style: none;
+  background: transparent;
+}
+
+.jcarousel-skin-default .jcarousel-item-horizontal {
+  margin: 0 4px;
+}
+
+.jcarousel-skin-default .jcarousel-item-placeholder {
+  background: #fff url(throbber.gif) no-repeat center center;
+  color: #000;
+}
+
+/**
+ * Buttons
+ */
+.jcarousel-skin-default .jcarousel-next,
+.jcarousel-skin-default .jcarousel-prev {
+	display: block;
+	width: 57px;
+	height: 67px;
+}
+
+.jcarousel-skin-default .jcarousel-next-disabled,
+.jcarousel-skin-default .jcarousel-prev-disabled {
+  display: none;
+}
+
+.jcarousel-skin-default .jcarousel-prev-horizontal {
+	position: absolute;
+	top: 100px;
+	left: -20px;
+	background: transparent url('/sites/all/themes/tao/i/nav02.png') no-repeat 0 -500px;
+
+}
+.jcarousel-skin-default .jcarousel-prev-horizontal:hover {
+  background-position: 0 -67px;
+}
+.jcarousel-skin-default .jcarousel-prev-horizontal:active {
+  background-position: 0 -67px;
+}
+
+.jcarousel-skin-default .jcarousel-next-horizontal {
+  position: absolute;
+  top: 100px;
+  right: -20px;
+  background: transparent url('/sites/all/themes/tao/i/nav02.png') no-repeat -57px -500px;
+}
+.jcarousel-skin-default .jcarousel-next-horizontal:hover {
+  background-position: -57px -67px;
+}
+.jcarousel-skin-default .jcarousel-next-horizontal:active {
+  background-position: -57px -67px;
+}
+
+.jcarousel-skin-default .jcarousel-navigation {
+  	margin: 4px 0 0px;
+	height: 11px;	
+	padding: 0;
+}
+
+.jcarousel-skin-default .jcarousel-navigation li {
+  display: inline;
+  margin: 0 2px 0 0;
+  padding: 0;
+  background: none;
+}
+
+.jcarousel-skin-default .jcarousel-navigation li.active a {
+  font-weight: bold;
+  text-decoration: none;
+}
+.jcarousel-skin-default .jcarousel-navigation li { display: none; }

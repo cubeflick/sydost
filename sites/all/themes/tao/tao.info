@@ -1,0 +1,42 @@
+core = 7.x
+description = Tao is a base theme that is all about going with the flow. It takes care of key reset and utility tasks so that sub-themes can get on with their job.
+engine = phptemplate
+name = Tao
+
+; Regions =====================================================================
+
+regions[header] = Header
+regions[ymenu] = yMenu
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[pagetop] = Pagetop
+regions[content] = Content
+regions[pagebottom] = Pagebottom
+regions[pagebottomnoboat] = Pagebottom No Boat
+regions[help] = Help
+regions[footer] = Footer
+regions[highlighted] = Highlighted
+regions[hidden] = Hidden
+regions[yasne] = Yasne
+
+; Stylesheets =================================================================
+
+stylesheets[all][] = reset.css
+stylesheets[all][] = base.css
+stylesheets[all][] = ie.css
+stylesheets[all][] = yasne-forms-buttons.css
+stylesheets[all][] = yasne.css
+stylesheets[all][] = jsdev.css
+stylesheets[screen][] = drupal.css
+stylesheets[print][]  = yasne-print.css
+
+; Scripts =====================================================================
+
+scripts[] = js/jsscripts.js
+
+; Information added by drupal.org packaging script on 2011-09-21
+version = "7.x-3.0-beta4"
+core = "7.x"
+project = "tao"
+datestamp = "1316616407"
+
