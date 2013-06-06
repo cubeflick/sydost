@@ -392,3 +392,72 @@ html.js .js-hide { display:none; }
 
 .vertical-tabs .vertical-tabs-panes .vertical-tabs-pane legend { display:none; }
 .vertical-tabs .vertical-tabs-list .summary { display:block; }
+
+/**
+ * front page used_boat_slider CSS =============================================
+ */
+
+
+.used_boat_slide .block-content .jcarousel-clip .jcarousel-item
+{
+	margin-right: 5px;
+	width: 190px !important;
+}
+.used_boat_slide .block-content .jcarousel-clip
+{
+	width: 780px;
+	margin-left: 63px;
+}
+.used_boat_slide > h2
+{
+	text-align: center;
+	font-weight: bold;
+    padding-top: 5px;
+}
+.used_boat_slide
+{
+	background-color: white;
+	margin-top: -12px;
+	margin-bottom: 8px;
+}
+.used_boat_slide .block-content .field-name-node-link
+{
+	display: none;
+}
+.used_boat_slide .block-content h2
+{
+	font-size: 15px !important;
+	font-weight: bold;
+	line-height: 16px;
+	margin:0px;
+}
+.used_boat_slide .block-content .group-right
+{
+	width:200px;
+}
+.used_boat_slide .block-content .group-right .yRow
+{
+	line-height: 10px;
+	min-height: 10px;
+	font-size: 13px;
+}
+.used_boat_slide .block-content .group-right .field-type-ds
+{
+	height:35px;
+}
+.used_boat_slide .jcarousel-prev-horizontal
+{
+	background-position: 0 -67px;
+	top: 28px;
+	
+}
+.used_boat_slide .jcarousel-next-horizontal
+{
+	background-position: -57px -67px;
+	top: 28px;
+}
+
+
+
+
+
