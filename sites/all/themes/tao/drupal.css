@@ -400,13 +400,14 @@ html.js .js-hide { display:none; }
 
 .used_boat_slide .block-content .jcarousel-clip .jcarousel-item
 {
-	margin-right: 5px;
-	width: 190px !important;
+	margin-right: 2px;
+	width: 177px !important;
 }
 .used_boat_slide .block-content .jcarousel-clip
 {
-	width: 780px;
-	margin-left: 63px;
+	
+	margin-left: 6px;
+	width: 890px;
 }
 .used_boat_slide > h2
 {
@@ -433,13 +434,24 @@ html.js .js-hide { display:none; }
 }
 .used_boat_slide .block-content .group-right
 {
-	width:200px;
+	padding: 0;
+    width: 164px;
+    overflow: hidden;
 }
 .used_boat_slide .block-content .group-right .yRow
 {
 	line-height: 10px;
 	min-height: 10px;
 	font-size: 13px;
+	width: 175px;
+	
+	background: none repeat scroll 0 0 #CFCCC2;
+	font-weight: 700;
+    margin: 0 0 5px;
+      overflow: hidden;
+    padding: 6px 0 6px 10px;
+    position: relative;
+	
 }
 .used_boat_slide .block-content .group-right .field-type-ds
 {
@@ -451,7 +463,7 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_left.png') !important;
 	 height: 111px;
-	left : 39px;
+	left : -19px;
 }
 .used_boat_slide .jcarousel-prev-horizontal:hover
 {
@@ -459,7 +471,7 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_left.png') !important;
 	 height: 111px;
-	left : 39px;
+	left : -19px;
 }
 .used_boat_slide .jcarousel-next-horizontal
 {
@@ -467,7 +479,7 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_right.png') !important;
 	 height: 111px;
-	 right : 4px;
+	 right : -53px;
 }
 .used_boat_slide .jcarousel-next-horizontal:hover
 {
@@ -475,14 +487,19 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_right.png') !important;
 	 height: 111px;
-	 right : 4px;
+	 right : -53px;
 }
 
 .used_boat_slide .block-content .group-left .field-items img
 {
 	height : 111px !important;
-	
+	width: 172px;
 }
-
-
-
+.used_boat_slide .block-content .group-left
+{
+	width: 170px;
+}
+.used_boat_slide .block-content .view-mode-list_boat
+{
+	width: 170px;
+}
