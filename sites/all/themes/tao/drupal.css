@@ -447,17 +447,26 @@ html.js .js-hide { display:none; }
 }
 .used_boat_slide .jcarousel-prev-horizontal
 {
-	background-position: 0 -67px;
-	top: 28px;
-	
+	background-position: 0px 0px;
+	top: 0px;
+	background-image: url('/sites/all/themes/tao/i/nav_left.png') !important;
+	 height: 111px;
+	left : 39px;
 }
 .used_boat_slide .jcarousel-next-horizontal
 {
-	background-position: -57px -67px;
-	top: 28px;
+	background-position: 0px 0px;
+	top: 0px;
+	background-image: url('/sites/all/themes/tao/i/nav_right.png') !important;
+	 height: 111px;
+	 right : 4px;
 }
 
-
+.used_boat_slide .block-content .group-left .field-items img
+{
+	height : 111px !important;
+	
+}
 
 
 
