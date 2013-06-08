@@ -400,14 +400,14 @@ html.js .js-hide { display:none; }
 
 .used_boat_slide .block-content .jcarousel-clip .jcarousel-item
 {
-	margin-right: 2px;
+	margin-right: -2px;
 	width: 177px !important;
 }
 .used_boat_slide .block-content .jcarousel-clip
 {
 	
-	margin-left: 6px;
-	width: 890px;
+	margin-left: 14px;
+	width: 872px;
 }
 .used_boat_slide > h2
 {
@@ -435,7 +435,7 @@ html.js .js-hide { display:none; }
 .used_boat_slide .block-content .group-right
 {
 	padding: 0;
-    width: 164px;
+    width: 172px;
     overflow: hidden;
 }
 .used_boat_slide .block-content .group-right .yRow
@@ -463,7 +463,7 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_left.png') !important;
 	 height: 111px;
-	left : -19px;
+	left : -10px;
 }
 .used_boat_slide .jcarousel-prev-horizontal:hover
 {
@@ -471,7 +471,7 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_left.png') !important;
 	 height: 111px;
-	left : -19px;
+	left : -10px;
 }
 .used_boat_slide .jcarousel-next-horizontal
 {
@@ -479,7 +479,7 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_right.png') !important;
 	 height: 111px;
-	 right : -53px;
+	 right : -44px;
 }
 .used_boat_slide .jcarousel-next-horizontal:hover
 {
@@ -487,7 +487,7 @@ html.js .js-hide { display:none; }
 	top: 0px;
 	background-image: url('/sites/all/themes/tao/i/nav_right.png') !important;
 	 height: 111px;
-	 right : -53px;
+	 right : -44px;
 }
 
 .used_boat_slide .block-content .group-left .field-items img
