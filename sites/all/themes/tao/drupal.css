@@ -437,6 +437,7 @@ html.js .js-hide { display:none; }
 	padding: 0;
     width: 172px;
     overflow: hidden;
+    float : left;
 }
 .used_boat_slide .block-content .group-right .yRow
 {
