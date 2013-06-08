@@ -510,7 +510,11 @@ html.js .js-hide { display:none; }
  * front page news_box CSS =============================================
  */
 
-.view-slider-news .jcarousel-skin-default .jcarousel-navigation .jcarousel-next
+.view-slider-news .jcarousel-skin-default  a.jcarousel-next
 {
 	background-position: -57px -67px !important;
 }
+
+
+
+
