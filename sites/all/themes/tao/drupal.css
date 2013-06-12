@@ -513,6 +513,7 @@ html.js .js-hide { display:none; }
 .view-slider-news .jcarousel-skin-default  a.jcarousel-next
 {
 	background-position: -57px -67px !important;
+	display: block;
 }
 
 

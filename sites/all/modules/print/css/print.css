@@ -76,10 +76,15 @@ img.print-logo {border: 0;}
  
  
  
+/**
+ * CSS added for print page by tomflick =============================================
+ */
 
 
-
-
+.print-content .view-mode-print .field-items .field-item > div > br
+{
+	display: none;
+}
 
 
 
