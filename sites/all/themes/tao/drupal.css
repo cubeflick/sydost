@@ -409,11 +409,12 @@ html.js .js-hide { display:none; }
 	margin-left: 14px;
 	width: 872px;
 }
-.used_boat_slide > h2
+.used_boat_slide .view-header > h2
 {
 	text-align: center;
-	font-weight: bold;
+	
     padding-top: 5px;
+    font-size: 24px;
 }
 .used_boat_slide
 {
@@ -425,7 +426,7 @@ html.js .js-hide { display:none; }
 {
 	display: none;
 }
-.used_boat_slide .block-content h2
+.used_boat_slide .block-content .field-items h2
 {
 	font-size: 15px !important;
 	font-weight: bold;
@@ -445,8 +446,8 @@ html.js .js-hide { display:none; }
 	min-height: 10px;
 	font-size: 13px;
 	width: 250px;
-	
-	background: none repeat scroll 0 0 #CFCCC2;
+	text-transform: lowercase;
+	background: none repeat scroll 0 0 #F1F2F4;
 	font-weight: 700;
     margin: 0 0 5px;
       overflow: hidden;
@@ -454,9 +455,14 @@ html.js .js-hide { display:none; }
     position: relative;
 	
 }
+.used_boat_slide .block-content .group-right .yRow:FIRST-LETTER
+{
+	text-transform: uppercase;
+}
+
 .used_boat_slide .block-content .group-right .field-type-ds
 {
-	height:35px;
+	height:55px;
 }
 .used_boat_slide .jcarousel-prev-horizontal
 {
@@ -515,6 +521,43 @@ html.js .js-hide { display:none; }
 	background-position: -57px -67px !important;
 	display: block;
 }
+
+/**
+ * CSS video box on boat page =============================================
+ */
+
+.view-video-box .view-content .embedded-video .player
+{
+	float: right;
+	margin: 23px;
+}
+
+.video_box_boat_page 
+{
+background: #fff
+}
+.video_box_boat_page h2.block-title 
+{
+float: left;
+margin: 40px 5px 5px 25px;
+font-size: 28px;
+}
+
+.video_box_boat_page .block-content .view-video-box .views-row .views-field-title 
+{
+	float: left;
+margin:74px 10px 10px -95px;
+}
+
+
+
+
+
+
+
+	
+	
+
 
 
 
