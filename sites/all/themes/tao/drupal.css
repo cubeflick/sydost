@@ -396,6 +396,10 @@ html.js .js-hide { display:none; }
 /**
  * front page used_boat_slider CSS =============================================
  */
+.used_boat_slide .block-content .jcarousel-container 
+{
+	height: 300px;
+}
 
 
 .used_boat_slide .block-content .jcarousel-clip .jcarousel-item
@@ -408,7 +412,21 @@ html.js .js-hide { display:none; }
 	
 	margin-left: 14px;
 	width: 872px;
+	height: 300px;
 }
+
+.used_boat_slide .block-content .jcarousel-clip ul
+{
+	
+	height: 300px;
+}
+
+.used_boat_slide .block-content .jcarousel-clip ul li
+{
+	
+	height: 300px;
+}
+
 .used_boat_slide .view-header > h2
 {
 	text-align: center;
@@ -455,6 +473,14 @@ html.js .js-hide { display:none; }
     position: relative;
 	
 }
+.used_boat_slide .block-content .group-right .red_button
+{
+	float: right !important;
+	width: 46px;
+	background: #C50D05;
+}
+
+
 .used_boat_slide .block-content .group-right .yRow:FIRST-LETTER
 {
 	text-transform: uppercase;
@@ -550,6 +576,9 @@ margin:74px 10px 10px -95px;
 }
 
 
+/**
+ * CSS for red button on used boat slider main page =============================================
+ */
 
 
 
