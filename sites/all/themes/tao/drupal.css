@@ -546,6 +546,7 @@ html.js .js-hide { display:none; }
 {
 	background-position: -57px -67px !important;
 	display: block;
+	 right: -13px;
 }
 
 /**
