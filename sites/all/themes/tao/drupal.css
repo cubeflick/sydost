@@ -475,9 +475,9 @@ html.js .js-hide { display:none; }
 }
 .used_boat_slide .block-content .group-right .red_button
 {
-	float: right !important;
-	width: 46px;
-	background: #C50D05;
+	background: none;
+	padding-left: 30px;
+	
 }
 
 
@@ -577,9 +577,7 @@ margin:74px 10px 10px -95px;
 }
 
 
-/**
- * CSS for red button on used boat slider main page =============================================
- */
+
 
 
 
