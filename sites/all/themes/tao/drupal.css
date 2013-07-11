@@ -477,7 +477,13 @@ html.js .js-hide { display:none; }
 {
 	background: none;
 	padding-left: 30px;
+	display: block !important;
 	
+}
+
+.red_button
+{
+	display: none;
 }
 
 
